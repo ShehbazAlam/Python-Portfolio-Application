@@ -1,5 +1,5 @@
 # Example Package
 
-This is a simple example package. You can use
+This is a simple example application. You can use
 [Portfolio App](https://github.com/ShehbazAlam/Python-Portfolio-Application/)
-to write your content.
+to create your application.
